@@ -1,0 +1,37 @@
+
+        body{
+            width: 100%;
+            margin: 3px;
+            border: 2px;
+        }
+        h1{
+            color: white;
+            background-color: rgb(158, 29, 148);
+            padding: 10%;
+            text-align: center;
+        
+        }
+        nav{
+            color: bisque;
+            background: rgb(60, 16, 60);
+            position: sticky;
+            top: 0;
+            margin: 1px;
+            padding: 20px;
+            border: 3px solid black;
+            width: 60%;
+            font-size: bolder;
+        }
+        nav a{
+            color: bisque;
+            padding: 20px;
+            text-decoration: none;
+
+        }
+        a:hover{
+            background-color: rgb(118, 33, 33);
+            color: white;
+        }
+        p{
+            margin: 100px;
+        }
